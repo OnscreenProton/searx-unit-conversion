@@ -17,4 +17,4 @@ $ docker exec -it foo sh
 
 ## Usage
 
-Convert units by searching (for example) `1kg to lbs`` in SearXNG
+Convert units by searching (for example) `convert 1kg to lbs`` in SearXNG
